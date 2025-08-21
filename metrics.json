@@ -1,0 +1,10 @@
+{
+  "model": "KNN",
+  "threshold": 0.135,
+  "cal_roc_auc": 0.9109,
+  "test_accuracy": 0.7273,
+  "test_precision": 0.5833,
+  "test_recall": 0.7778,
+  "test_f1": 0.6667,
+  "test_roc_auc": 0.7978
+}

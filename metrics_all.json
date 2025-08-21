@@ -1,0 +1,52 @@
+[
+  {
+    "model": "SVM",
+    "threshold": 0.325,
+    "cal_roc_auc": 0.891,
+    "test_accuracy": 0.7013,
+    "test_precision": 0.5833,
+    "test_recall": 0.5185,
+    "test_f1": 0.549,
+    "test_roc_auc": 0.8128
+  },
+  {
+    "model": "LogReg",
+    "threshold": 0.26,
+    "cal_roc_auc": 0.894,
+    "test_accuracy": 0.7273,
+    "test_precision": 0.5811,
+    "test_recall": 0.7963,
+    "test_f1": 0.6719,
+    "test_roc_auc": 0.801
+  },
+  {
+    "model": "RandomForest",
+    "threshold": 0.17,
+    "cal_roc_auc": 0.8985,
+    "test_accuracy": 0.7208,
+    "test_precision": 0.5714,
+    "test_recall": 0.8148,
+    "test_f1": 0.6718,
+    "test_roc_auc": 0.7995
+  },
+  {
+    "model": "KNN",
+    "threshold": 0.135,
+    "cal_roc_auc": 0.9109,
+    "test_accuracy": 0.7273,
+    "test_precision": 0.5833,
+    "test_recall": 0.7778,
+    "test_f1": 0.6667,
+    "test_roc_auc": 0.7978
+  },
+  {
+    "model": "DecisionTree",
+    "threshold": 0.265,
+    "cal_roc_auc": 0.8379,
+    "test_accuracy": 0.7143,
+    "test_precision": 0.5694,
+    "test_recall": 0.7593,
+    "test_f1": 0.6508,
+    "test_roc_auc": 0.7479
+  }
+]
